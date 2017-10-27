@@ -1,0 +1,20 @@
+{
+	"name"             : "digitoimistodude/dude-this-is-my-wishlist",
+	"description"      : "Simple and developer friendly wishlist plugin.",
+	"version"          : "0.1.0",
+	"type"             : "wordpress-plugin",
+	"keywords"         : [],
+	"homepage"         : "http://dude.fi/koodiluola",
+	"license"          : "GPLv2.0+",
+	"minimum-stability": "dev",
+	"authors"          : [
+		{
+			"name"    : "Timi Wahalahti",
+			"email"   : "timi@dude.fi",
+			"homepage": "http://sipp.is",
+			"role"    : "Developer"
+		}
+	],
+	"require-dev"      : {},
+	"require"          : {}
+}
